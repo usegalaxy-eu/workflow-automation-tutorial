@@ -1,0 +1,11 @@
+Reference genome:
+  class: File
+  path: todo_test_data_path.ext
+Variant calls:
+  class: Collection
+  collection_type: list
+  elements:
+  - class: File
+    identifier: todo_element_name
+    path: todo_test_data_path.ext
+min-AF for consensus variant: todo_param_value

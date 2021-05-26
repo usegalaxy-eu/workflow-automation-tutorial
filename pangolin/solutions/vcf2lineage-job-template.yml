@@ -1,0 +1,11 @@
+Reference genome:
+  class: File
+  galaxy_id: 11ac94870d0bb33aedd41a38bc627d9c
+Variant calls:
+  class: Collection
+  collection_type: list
+  elements:
+  - class: File
+    identifier: todo_element_name
+    path: todo_test_data_path.ext
+min-AF for consensus variant: 0.7 #todo_param_value
