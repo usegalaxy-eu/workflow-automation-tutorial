@@ -347,7 +347,7 @@
         },
         "7": {
             "annotation": "",
-            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/pangolin/pangolin/3.0.3+galaxy0",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/pangolin/pangolin/3.1.4+galaxy0",
             "errors": null,
             "id": 7,
             "input_connections": {
@@ -389,27 +389,27 @@
                     "output_name": "output1"
                 }
             },
-            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pangolin/pangolin/3.0.3+galaxy0",
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/pangolin/pangolin/3.1.4+galaxy0",
             "tool_shed_repository": {
-                "changeset_revision": "42126b414951",
+                "changeset_revision": "42a174224817",
                 "name": "pangolin",
                 "owner": "iuc",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
             "tool_state": "{\"alignment\": \"false\", \"db\": {\"source\": \"default\", \"__current_case__\": 2}, \"include_header\": \"false\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"max_ambig\": \"0.5\", \"min_length\": \"10000\", \"usher\": \"false\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
-            "tool_version": "3.0.3+galaxy0",
+            "tool_version": "3.1.4+galaxy0",
             "type": "tool",
-            "uuid": "5a5a8bdc-c97c-4dc2-a391-cfc31954bb6f",
+            "uuid": "2820d3ad-3090-4bce-bb44-5af695a2e091",
             "workflow_outputs": [
                 {
                     "label": "pangolin_results",
                     "output_name": "output1",
-                    "uuid": "b8414a54-9306-4021-84a9-54e2ebef0a14"
+                    "uuid": "b352b348-3ae6-49f2-89b8-41a885ebbb45"
                 }
             ]
         }
     },
     "tags": [],
     "uuid": "170b6338-9197-4f2a-b0eb-591014fde6e9",
-    "version": 2
+    "version": 3
 }
